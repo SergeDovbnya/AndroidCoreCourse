@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Module1</string>
+    <string name="hint">Enter text here</string>
+    <string name="button_name">+1</string>
+    <string name="fib">Fibonacci: </string>
+    <string name="fib_result">Result</string>
+</resources>
