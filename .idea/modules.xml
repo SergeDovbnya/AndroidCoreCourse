@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidCoreCourse.iml" filepath="$PROJECT_DIR$/AndroidCoreCourse.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2.task2_1/module2.task2_1.iml" filepath="$PROJECT_DIR$/module2.task2_1/module2.task2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2.task2_2/module2.task2_2.iml" filepath="$PROJECT_DIR$/module2.task2_2/module2.task2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2.task2_3/module2.task2_3.iml" filepath="$PROJECT_DIR$/module2.task2_3/module2.task2_3.iml" />
     </modules>
   </component>
 </project>
